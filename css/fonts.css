@@ -1,0 +1,10 @@
+@font-face 
+{
+	font-family: Exo_Regular; /* Гарнитура шрифта */
+	src: url(../fonts/Exo2.0-Regular.otf); /* Путь к файлу со шрифтом */
+}
+@font-face 
+{
+	font-family: Exo_SemiBold; 
+	src: url(../fonts/Exo2.0-SemiBold.otf); 
+}
